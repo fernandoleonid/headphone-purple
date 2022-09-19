@@ -1,0 +1,15 @@
+.info{
+    height: 100px;
+    width: 200px;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    font-size: .75rem;
+}
+.info__number{font-weight: 600;}
+.info__feature{font-weight: 800;}
+.info__valeu{font-weight: 400;}
