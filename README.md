@@ -2,6 +2,8 @@
 
 ![](./img/screenshot.png)
 
+[Clique aqui](https://fernandoleonid.github.io/headphone-purple/) para acessar o site
+
 ---
 ## Sobre
 Site do tipo landing page para divulgar o headphone Razer Kraken BT Purple.
